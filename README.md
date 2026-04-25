@@ -124,6 +124,19 @@ Machine learning basics
 
 Data classification
 
+Features extracted: 10
+Training completed
+Accuracy: 1.0
+
+===== Emotion Recognition Result =====
+Predicted Emotion: Happy
+Confidence: 0.82
+=====================================
+Note on Accuracy
+
+The model achieved 100% accuracy due to a small dataset and limited number of samples. 
+This may lead to overfitting, and performance may vary with larger real-world data.
+
 
 
 
